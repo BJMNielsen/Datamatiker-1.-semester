@@ -11,6 +11,7 @@ public class LineBattleRevived {
         // 0 = Bomb
         // 1 = Shoot
         // 2 = Trap
+        //
     }
 
     public static void main(String[] args) {
